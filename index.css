@@ -1,0 +1,24 @@
+body{
+    height:800px;
+    background: linear-gradient(120deg, yellow 0%, yellow 33%, teal 33%, teal 66%, orange 66%)
+}
+
+#red {
+    background-color: #f00;
+    border: 3px dotted #000000;
+}
+#green {
+    background-color: #0f0;
+    border: thick outset #000000;
+}
+#blue {
+    background-color: #00f;
+    border: 0.5em double #000000;
+}
+.box {
+    width: 20%;
+    text-align: center;
+    margin: 20px;
+    padding: 50px 0px;
+    border-radius: 20px;
+}
